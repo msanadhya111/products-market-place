@@ -1,0 +1,27 @@
+.item {
+    height: 100px;
+    display: flex;
+    width: 150px;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.item-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.buy-button {
+    padding-left: 75px;
+    padding-top: 35px;
+}
+
+button {
+    height: 24px;
+    width: 60px;
+    background-color:rgb(111, 96, 124)
+}

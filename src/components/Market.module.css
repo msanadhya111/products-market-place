@@ -1,0 +1,12 @@
+.items {
+    display: flex;
+    justify-content: flex-start;
+    padding: 15px;
+    height: 100%;
+    background-color:rgb(111, 96, 124)
+}
+
+.no-items {
+    font-size: xx-large;
+    padding-left: 35%;
+}

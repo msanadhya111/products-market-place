@@ -1,0 +1,10 @@
+.account {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 50%;
+    border: 1px solid;
+    margin-left: 40rem;
+    margin-top: 18rem;
+    padding: 25px;
+}

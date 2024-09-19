@@ -1,0 +1,25 @@
+.login-page {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 50%;
+    height: auto;
+    margin-left: 40rem;
+    margin-top: 18rem;
+    padding: 25px;
+}
+
+.sign-up {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.sign-up-text {
+    text-decoration: underline;
+    color: blue;
+    margin-left: 5px;
+}
+
+.errorText {
+    color: red;
+}
